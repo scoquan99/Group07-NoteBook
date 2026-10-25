@@ -1,0 +1,6 @@
+name,file,label,label_date,source,licence,rationale
+Simple Wikipedia - Volcano,simple_volcano.txt,Elementary,2026-10-25,https://simple.wikipedia.org/wiki/Volcano,CC BY-SA 4.0,"short plain sentences; everyday words with a few glossed technical terms"
+Simple Wikipedia - Tornado,simple_tornado.txt,Intermediate,2026-10-25,https://simple.wikipedia.org/wiki/Tornado,CC BY-SA 4.0,"longer sentences and unglossed jargon (mesocyclone, multi-vortices, gustnadoes) despite the Simple English label"
+Alice in Wonderland ch.1 (Carroll 1865),gutenberg_alice.txt,Intermediate,2026-10-25,https://www.gutenberg.org/ebooks/11,Public domain,"common vocabulary and concrete story; long coordinated sentences with parentheses"
+Wikipedia - Inflation,en_inflation.txt,Advanced,2026-10-25,https://en.wikipedia.org/wiki/Inflation,CC BY-SA 4.0,"abstract economics vocabulary; dense nominal phrases and long sentences"
+Darwin - Origin of Species intro (1859),gutenberg_darwin.txt,Advanced,2026-10-25,https://www.gutenberg.org/ebooks/1228,Public domain,"19th-century formal prose; long periodic sentences and low-frequency words"
